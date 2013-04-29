@@ -1,0 +1,981 @@
+
+<script type='text/javascript'>
+googletag.defineSlot('/1024775/Baby-Names-Box', [300, 250], 'div-gpt-ad-1361541273167-0').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Baby-Names-Leaderboard', [728, 90], 'div-gpt-ad-1361541273167-1').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Baby-Names-Skyscraper', [160, 600], 'div-gpt-ad-1361541273167-2').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Celebrations-Holidays-Box', [300, 250], 'div-gpt-ad-1361541273167-3').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Celebrations-Holidays-Leaderboard', [728, 90], 'div-gpt-ad-1361541273167-4').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Celebrations-Holidays-Skyscraper', [160, 600], 'div-gpt-ad-1361541273167-5').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Diet-Nutrition-Health-Box', [300, 250], 'div-gpt-ad-1361541273167-6').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Diet-Nutrition-Health-Leaderboard', [728, 90], 'div-gpt-ad-1361541273167-7').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Diet-Nutrition-Health-Skyscraper', [160, 600], 'div-gpt-ad-1361541273167-8').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Food-Recipes-Box', [300, 250], 'div-gpt-ad-1361541273167-9').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Food-Recipes-Leaderboard', [728, 90], 'div-gpt-ad-1361541273167-10').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Food-Recipes-Skyscraper', [160, 600], 'div-gpt-ad-1361541273167-11').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Parenting-Pregnancy-Box', [300, 250], 'div-gpt-ad-1361541273167-12').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Parenting-Pregnancy-Leaderboard', [728, 90], 'div-gpt-ad-1361541273167-13').addService(googletag.pubads());
+googletag.defineSlot('/1024775/Parenting-Pregnancy-Skyscraper', [160, 600], 'div-gpt-ad-1361541273167-14').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
+	</head>
+	<body id="ff-solarsentinel" class="f-default style5 bg-red iehandle">
+		<div>
+			<div class="wrapper"><div id="body-left" class="png"><div id="body-right" class="png">
+				<!--Begin Top Bar-->
+								<!--End Top Bar-->
+				<!--Begin Header-->
+								<div id="header-bar">
+										<div class="logo-module">		<div class="moduletable">
+					<!-- Parenting-Pregnancy-Leaderboard -->
+<div id='div-gpt-ad-1361541273167-13' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1361541273167-13');
+</script>
+</div>
+<div>
+<table style="width: 681px; height: 83px;" border="0" cellspacing="7" cellpadding="7">
+<tbody>
+<tr>
+<td><br /><a href="http://www.momswhothink.com/" target="_self"><img title="MomsWhoThink.com" src="/images/stories/logo3.png" alt="logo3" width="273" height="51" /></a></td>
+<td><form id="cse-search-box" action="http://www.google.com/cse" enctype="application/x-www-form-urlencoded">
+<div style="text-align: center;"><input type="hidden" name="cx" value="partner-pub-7841587053148426:brtrs3-jj0o" /> <input type="hidden" name="ie" value="ISO-8859-1" /> <input type="text" name="q" size="22" /> <input type="submit" name="sa" value="Search" /></div>
+</form></td>
+</tr>
+</tbody>
+</table>
+</div>		</div>
+	</div>
+														</div>
+												<div id="horiz-menu" class="suckerfish">
+									<ul class="menutop" >
+			<li class="item10524 " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/"  >
+						<span>Home</span>
+		</a>	
+			
+</li>	
+			<li class="item11138 parent " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/diet-and-nutrition/diet-and-weight-loss.html"  >
+						<span>Think Diet</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11421  coltop" >
+			<a class="link" href="http://www.momswhothink.com/diet-and-nutrition/nutrition.html"  >
+						<span>Nutrition</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11422 " >
+			<a class="link" href="http://www.momswhothink.com/diet-and-nutrition/diet-and-weight-loss-guides-and-charts.html"  >
+						<span>Guides and Charts</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11423 " >
+			<a class="link" href="http://www.momswhothink.com/healthy-recipes/healthy-recipes.html"  >
+						<span>Healthy Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11424 " >
+			<a class="link" href="http://www.momswhothink.com/lose-weight-fast/how-to-lose-weight-fast.html"  >
+						<span>Lose Weight Fast</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11425 " >
+			<a class="link" href="http://www.momswhothink.com/lose-weight-fast/diet-reviews.html"  >
+						<span>Diet Reviews</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item10649 parent " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/recipes/food-and-recipes.html"  >
+						<span>Think Recipes</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11391 parent " >
+			<a class="daddy link" href="http://www.momswhothink.com/easy-recipes/barbecue-recipes.html"  >
+						<span>Barbecue Recipes</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11394  coltop" >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/steaks-and-burgers-recipes.html"  >
+						<span>Steaks and Burgers</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11395 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/ribs-and-chicken-recipes.html"  >
+						<span>Ribs and Chicken</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11396 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/barbecue-sides-recipes.html"  >
+						<span>Picnic Side Dishes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11397 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/barbecue-desserts-recipes.html"  >
+						<span>Barbecue Desserts</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+					
+			<li class="item11331 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/easy-recipes.html"  >
+						<span>Easy Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11549 " >
+			<a class="link" href="http://www.momswhothink.com/freezer-cooking-recipes/freezer-cooking-recipes.html"  >
+						<span>Freezer Cooking Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11427 " >
+			<a class="link" href="http://www.momswhothink.com/4-to-7-ingredient-recipes/4-to-7-ingredient-dinner-recipes.html"  >
+						<span>4 to 7 Ingredient Dinner Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11343 " >
+			<a class="link" href="http://www.momswhothink.com/dinner-recipes/dinner-ideas.html"  >
+						<span>Dinner Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11347 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/easy-dinner-recipes.html"  >
+						<span>Dinner Meal Plans</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11341 " >
+			<a class="link" href="http://www.momswhothink.com/healthy-recipes/healthy-recipes.html"  >
+						<span>Healthy Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11349 " >
+			<a class="link" href="http://www.momswhothink.com/quick-and-easy-dinner-recipes/quick-and-easy-30-minute-meals.html"  >
+						<span>30 Minute Meals</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11332 " >
+			<a class="link" href="http://www.momswhothink.com/chicken-recipes/chicken-recipes.html"  >
+						<span>Chicken Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11402 " >
+			<a class="link" href="http://www.momswhothink.com/chicken-recipes/four-to-five-ingredient-chicken-recipes.html"  >
+						<span>4 to 5 Ingredient Chicken</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11333 " >
+			<a class="link" href="http://www.momswhothink.com/crock-pot-recipes/crock-pot-recipes-for-the-crockpot-and-slow-cooker.html"  >
+						<span>Crock Pot Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11432 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/casserole-recipes.html"  >
+						<span>Casserole Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11335 " >
+			<a class="link" href="http://www.momswhothink.com/kids-recipe/kids-recipes-a-to-z.html"  >
+						<span>Kids Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11352 parent " >
+			<a class="daddy link" href="/dinner-recipes/side-dishes-salads-and-soups.html"  >
+						<span>Soups Salads &amp; Sides</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11348 " >
+			<a class="link" href="http://www.momswhothink.com/soup-recipes/soup-recipes.html"  >
+						<span>Soup Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11346 " >
+			<a class="link" href="http://www.momswhothink.com/dinner-recipes/side-dishes.html"  >
+						<span>Side Dishes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11342 " >
+			<a class="link" href="http://www.momswhothink.com/salad-recipes/salad-recipes.html"  >
+						<span>Salad Recipes</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+					
+			<li class="item11077 " >
+			<a class="link" href="http://www.momswhothink.com/recipes/mama-shirleys-recipes.html"  >
+						<span>Mama Shirleys Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11324 " >
+			<a class="link" href="http://www.momswhothink.com/recipes/food-and-recipes.html"  >
+						<span>Food &amp; Recipes Home</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11334 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/dessert-recipes.html"  >
+						<span>Dessert Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11339 " >
+			<a class="link" href="http://www.momswhothink.com/cake-recipes/cake-recipes.html"  >
+						<span>Cake Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11337 " >
+			<a class="link" href="http://www.momswhothink.com/fudge-recipes/fudge-recipes.html"  >
+						<span>Fudge Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11340 " >
+			<a class="link" href="http://www.momswhothink.com/pie-recipes/pie-recipes.html"  >
+						<span>Pie Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11338 " >
+			<a class="link" href="http://www.momswhothink.com/cheesecake-recipes/cheesecake-recipes.html"  >
+						<span>Cheesecake Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11336 " >
+			<a class="link" href="http://www.momswhothink.com/cookie-recipes/cookie-recipes.html"  >
+						<span>Cookie Recipes</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11354 parent " >
+		    <a class="daddy link" >
+			<span>Breakfasts</span>
+		</a>
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11345 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/breakfast-casseroles.html"  >
+						<span>Breakfast Casseroles</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11344 " >
+			<a class="link" href="http://www.momswhothink.com/easy-recipes/breakfast-recipes.html"  >
+						<span>Breakfast Recipes</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item11553 " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/dinner-recipes/dinner-ideas.html"  >
+						<span>Think Dinner</span>
+		</a>	
+			
+</li>	
+			<li class="item10860 " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/celebrations/celebrations-and-holidays.html"  >
+						<span>Think Celebrations</span>
+		</a>	
+			
+</li>	
+			<li class="item10747 parent " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/parenting-home-page/parenting.html"  >
+						<span>Think Family</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11412 " >
+			<a class="link" href="http://www.momswhothink.com/baby-names/baby-names.html"  >
+						<span>Baby Names</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11440 parent " >
+			<a class="daddy link" href="http://www.momswhothink.com/womens-health/womens-health-issues.html"  >
+						<span>Womens Health Concerns</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11439 " >
+			<a class="link" href="http://www.momswhothink.com/womens-health/symptoms-of-illness.html"  >
+						<span>Symptoms of Illness</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11443 " >
+			<a class="link" href="http://www.momswhothink.com/pain/pain-management.html"  >
+						<span>Pain Issues</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11441 " >
+			<a class="link" href="http://www.momswhothink.com/perimenopause-symptoms/perimenopause-symptoms.html"  >
+						<span>Perimenopause</span>
+		</a>	
+			
+</li>	
+					
+			<li class="item11442 " >
+			<a class="link" href="http://www.momswhothink.com/menopause-information/menopause-information.html"  >
+						<span>Menopause</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+					
+			<li class="item11420 parent " >
+			<a class="daddy link" href="http://www.momswhothink.com/pregnancy/fertility-and-pregnancy.html"  >
+						<span>Fertility and Pregnancy</span>
+		</a>	
+				<div class="drop-wrap columns-1"><div class="drop1 png"></div>
+	<ul class="png columns-1">
+					
+			<li class="item11444 " >
+			<a class="link" href="/index.php?option=com_womancalendar&amp;Itemid=11444"  >
+						<span>Ovulation Calculator and Calendar</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+					
+			<li class="item11419 " >
+			<a class="link" href="http://www.momswhothink.com/parenting-home-page/parenting.html"  >
+						<span>Parenting</span>
+		</a>	
+			
+</li>	
+			</ul>
+	</div>
+		
+</li>	
+			<li class="item11546 " >
+			<a class="topdaddy link" href="http://www.momswhothink.com/quotes/quotes.html"  >
+						<span>Think Quotes</span>
+		</a>	
+			
+</li>	
+	</ul>
+								<div class="clr"></div>
+				</div>
+								<!--End Header-->
+				<!--Begin Showcase Modules-->
+								<!--End Showcase Modules-->
+				<div id="main-body">
+					<div id="main-body-surround">
+						<!--Begin Main Content Block-->
+						<div id="main-content" class="s-c-x">
+						    <div class="colmask leftmenu">
+						        <div class="colmid">
+    					    	    <div class="colright">
+        						        <!--Begin col1wrap -->    
+            						    <div class="col1wrap">
+            						        <div class="col1pad">
+            						            <div class="col1">
+                    						        <div id="maincol2">
+                    									<div class="maincol2-padding">
+																															                    									<div id="newsflash-bar">
+	                    										<br />
+<script type="text/javascript"><!--
+google_ad_client = "pub-7841587053148426";
+/* 468x15, created 9/3/08 */
+google_ad_slot = "2462118902";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	                    									</div>
+	                    									<br />
+                    									                    									<div id="mainmodules" class="spacer w33">
+                    										                    										<div class="block first">
+                    												<div class="">
+		<div class="moduletable">
+						<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>		</div>
+	</div>
+	
+                    										</div>
+                    										                    										                    										<div class="block middle">
+                    												<div class="">
+		<div class="moduletable">
+						<div class="vergefacebooklike">
+
+
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.momswhothink.com%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2189%26Itemid%3D11309&amp;layout=standard&amp;show_faces=false&amp;width=180&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;locale=en_GB"
+scrolling="no"
+frameborder="0"
+allowTransparency="true"
+style="border:none;
+overflow:hidden;
+width:180px;
+height:40px">
+</iframe>
+
+
+</div>		</div>
+	</div>
+	
+                    										</div>
+                    										                    										                    										<div class="block last">
+                    												<div class="">
+		<div class="moduletable">
+						
+<style>
+.pinterest-btn {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.pin-it-btn {
+    position: absolute;
+    background: url(http://assets.pinterest.com/images/pinit6.png);
+    font: 11px Arial, sans-serif;
+    text-indent: -9999em;
+    font-size: .01em;
+    color: #CD1F1F;
+    height: 20px;
+    width: 43px;
+    background-position: 0 -7px;
+}
+
+.pin-it-btn:hover {
+    background-position: 0 -28px;
+}
+
+.pin-it-btn:active {
+    background-position: 0 -49px;
+}
+</style>
+
+
+<script type="text/javascript">
+(function() {
+    window.PinIt = window.PinIt || { loaded:false };
+    if (window.PinIt.loaded) return;
+    window.PinIt.loaded = true;
+    function async_load(){
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        if (window.location.protocol == "https:")
+            s.src = "//assets.pinterest.com/js/pinit.js";
+        else
+            s.src = "//assets.pinterest.com/js/pinit.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.attachEvent)
+        window.attachEvent("onload", async_load);
+    else
+        window.addEventListener("load", async_load, false);
+})();
+</script>
+<script>
+function exec_pinmarklet() {
+    var e=document.createElement('script');
+    e.setAttribute('type','text/javascript');
+    e.setAttribute('charset','UTF-8');
+    e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r=' + Math.random()*99999999);
+    document.body.appendChild(e);
+}
+</script>
+
+
+<div class="pinterest-btn">
+
+	<a href="javascript:exec_pinmarklet();" class="pin-it-btn" title="Pin It on Pinterest"></a>
+
+</div>
+		</div>
+	</div>
+	
+                    										</div>
+                    										                    									</div>
+                    									                    									     <div class="bodycontent">                                          
+                    										                    										                    										<div id="maincontent-block">
+                												
+                												                												  <div class="">
+	<div id="page" class="full-article">
+		
+				<div class="article-rel-wrapper">
+				 	</div>
+
+		
+		
+		
+		
+		
+		
+		<link href="http://www.momswhothink.com/components/com_sidebars/css/2.css" rel="stylesheet" type="text/css" />
+									<div id="box" class=box_sidebar2 style=""><div id="box" class="sidebar2_intro"><p><strong>Spread the Words!</strong></p>
+<p><a title="Prepositions with (p) power" href="/reading/list-of-prepositions.html"><strong>Prepositions</strong></a></p>
+<p><a title="Huge (adj) List of Adjectives" href="/reading/list-of-adjectives.html"><strong>Adjectives</strong></a></p>
+<p><a title="Pronouns for you (pro)" href="/reading/list-of-pronouns.html"><strong>Pronouns</strong></a></p>
+<p><a title="Truly (adv) useful Adverb list" href="/reading/list-of-adverbs.html"><strong>Adverbs</strong></a></p>
+<a title="People, Places, and Things (n)" href="/reading/list-of-nouns.html"><strong>Nouns</strong></a>
+<p><a title="Rhyme Time" href="/reading/rhyming-words.html"><strong>Words that Rhyme</strong></a></p></div></div>
+<h1>List of Nouns</h1>
+<p>Using a list of nouns when children are beginning to read is helpful in making teaching easier. Nouns are one of the first parts of speech that children learn when they begin to read. Use the following list of nouns for each age group to help your child learn about the ideas things, people and places that surround them.</p>
+<h2>Kinds of Nouns in the English Language</h2>
+<p>Nouns have different types or classes. There are <strong>proper and common nouns</strong>, <strong>noncount and count nounts</strong>, <strong>collective nouns</strong>, and <strong>concrete and abstract nouns</strong>.</p>
+<p>Even though there are different kinds of nouns, a noun can fall into more than one class.</p>
+<p>An example of this would be: Kathleen dated three different Davids in college. Davids in that sentence would fall into the classes of proper, count and concrete.</p>
+<p>To further explain the kinds of nouns, you can use this guide and remember that <strong>the lists of nouns below contain all of these types</strong> :</p>
+<p><span style="text-decoration: underline;"><strong>KINDS OF NOUNS</strong></span></p>
+<p><strong>Proper Nouns and Common Nouns</strong></p>
+<p>Proper nouns are nouns that represent a unique entity (like a specific person or a specific place).</p>
+<p>Common nouns which describe an entire group of entities (examples would be the nouns village or women).</p>
+<p>Proper nouns as a general rule are capitalized in the English language. Common nouns as a general rule are not capitalized.</p>
+<p>Sometimes the same word can function as both a common noun and a proper noun, where one such entity is special. For example the common noun god refers to all deities, while the proper noun God specifically refers to the monotheistic God.</p>
+<p> </p>
+<p><strong>Countable and Uncountable or Noncount Nouns</strong></p>
+<p>Countable nouns are common nouns that can become a plural. They can combine with exact numbers (even one, as a singular) or indefinite numbers (like "a" or "an").</p>
+<p>Uncountable (or noncount) nouns are different from by the simple fact that  they can't become plural or combine with number words. Examples from English include "indigestion" and "furniture".</p>
+<p> </p>
+<p><strong>Collective Nouns</strong></p>
+<p>Collective nouns name groups consisting of more than one individual or entity. The group is a single unit, but it has more than one member. Examples include "family", "committee", "corporation","faculty", "army", and "school".</p>
+<p> </p>
+<p><strong>Concrete Nouns and Abstract Nouns</strong></p>
+<p>Concrete nouns refer to their ability to register on your five senses. If you can see, hear, smell, taste, or feel the item, it's a concrete noun.</p>
+<p>Abstract nouns on the other hand refer to abstract objects such as ideas or concepts, like the nouns "politeness" or "hatefulness".</p>
+<p> </p>
+<p><strong>Possessive Nouns</strong></p>
+<p>A possessive noun is a noun that names who or what has something. The possessive form is used with nouns referring to people, groups of people, countries, and animals.</p>
+<p>It also refers to where someone works or plays or spends their time.</p>
+<p>Add an apostrophe and s ('s) to form the possessive of most singular nouns (ex. Bob's jacket, the cat's tail, Steven King's books).</p>
+<p>Add an apostrophe (') to form the possessive of plural nouns that end with s (ex. retailers' stores, soldiers' weapons, Americans' banks).</p>
+<p>Add an apostrophe and s ('s) to form the possessive of plural nouns that do not end with s (ex. geese's nest, children's toys, women's dresses).</p>
+<p> </p>
+<h2>Common Nouns by Grade Level</h2>
+<br />
+<table style="border: 3px solid #f1f1f1; width: 100%;" border="0" cellspacing="3" cellpadding="3" align="center" bgcolor="#fffff0">
+<tbody>
+<tr>
+<td valign="top">
+<p><span style="text-decoration: underline;"><strong>Kindergarten</strong></span></p>
+<p>ball<br />bat<br />bed<br />book<br />boy<br />bun<br />can<br />cake<br />cap<br />car<br />cat<br />cow<br />cub<br />cup<br />dad<br />day<br />dog<br />doll<br />dust<br />fan<br />feet<br />girl<br />gun<br />hall<br />hat<br />hen<br />jar<br />kite<br />man<br />map<br />men<br />mom<br />pan<br />pet<br />pie<br />pig<br />pot<br />rat<br />son<br />sun<br />toe<br />tub<br />van</p>
+</td>
+<td>
+<p><span style="text-decoration: underline;"><strong>1st Grade</strong></span></p>
+<p>apple<br />arm<br />banana<br />bike<br />bird<br />book<br />chin<br />clam<br />class<br />clover<br />club<br />corn<br />crayon<br />crow<br />crown<br />crowd<br />crib<br />desk<br />dime<br />dirt<br />dress<br />fang <br />field<br />flag<br />flower<br />fog<br />game<br />heat<br />hill<br />home<br />horn<br />hose<br />joke<br />juice<br />kite<br />lake<br />maid<br />mask<br />mice<br />milk<br />mint<br />meal<br />meat<br />moon<br />mother<br />morning<br />name<br />nest<br />nose<br />pear<br />pen<br />pencil<br />plant<br />rain<br />river<br />road<br />rock<br />room<br />rose<br />seed<br />shape<br />shoe<br />shop<br />show<br />sink<br />snail<br />snake<br />snow<br />soda<br />sofa<br />star<br />step<br />stew<br />stove<br />straw<br />string<br />summer<br />swing<br />table<br />tank<br />team<br />tent<br />test<br />toes<br />tree<br />vest<br />water<br />wing<br />winter<br />woman<br />women</p>
+</td>
+<td valign="top">
+<p><span style="text-decoration: underline;"><strong>2nd Grade</strong></span></p>
+<p>alarm<br />animal<br />aunt<br />bait<br />balloon<br />bath<br />bead<br />beam<br />bean<br />bedroom<br />boot<br />bread<br />brick<br />brother<br />camp<br />chicken<br />children<br />crook<br />deer<br />dock<br />doctor<br />downtown<br />drum<br />dust<br />eye<br />family<br />father<br />fight<br />flesh<br />food<br />frog<br />goose<br />grade<br />grandfather<br />grandmother<br />grape<br />grass<br />hook<br />horse<br />jail<br />jam<br />kiss<br />kitten<br />light<br />loaf<br />lock<br />lunch<br />lunchroom<br />meal<br />mother<br />notebook<br />owl<br />pail<br />parent<br />park<br />plot<br />rabbit<br />rake<br />robin<br />sack<br />sail<br />scale<br />sea<br />sister<br />soap<br />song<br />spark<br />space<br />spoon<br />spot<br />spy<br />summer<br />tiger<br />toad<br />town<br />trail<br />tramp<br />tray<br />trick<br />trip<br />uncle<br />vase<br />winter<br />water<br />week<br />wheel<br />wish<br />wool<br />yard<br />zebra</p>
+</td>
+<td valign="top">
+<p><span style="text-decoration: underline;"><strong>3rd Grade</strong></span></p>
+<p>actor<br />airplane<br />airport<br />army<br />baseball<br />beef<br />birthday<br />boy<br />brush<br />bushes<br />butter <br />cast<br />cave<br />cent<br />cherries<br />cherry<br />cobweb<br />coil<br />cracker<br />dinner<br />eggnog<br />elbow<br />face<br />fireman<br />flavor<br />gate<br />glove<br />glue<br />goldfish<br />goose<br />grain<br />hair<br />haircut<br />hobbies<br />holiday<br />hot<br />jellyfish<br />ladybug<br />mailbox<br />number<br />oatmeal<br />pail<br />pancake<br />pear<br />pest<br />popcorn<br />queen<br />quicksand<br />quiet<br />quilt<br />rainstorm<br />scarecrow<br />scarf<br />stream<br />street<br />sugar<br />throne<br />toothpaste<br />twig<br />volleyball<br />wood<br />wrench</p>
+</td>
+<td valign="top">
+<p><span style="text-decoration: underline;"><strong>4th Grade</strong></span></p>
+<p>advice<br />anger<br />answer<br />apple<br />arithmetic<br />badge<br />basket<br />basketball<br />battle<br />beast<br />beetle<br />beggar<br />brain<br />branch<br />bubble<br />bucket<br />cactus<br />cannon<br />cattle<br />celery<br />cellar<br />cloth<br />coach<br />coast<br />crate<br />cream<br />daughter<br />donkey<br />drug<br />earthquake<br />feast<br />fifth<br />finger<br />flock<br />frame<br />furniture<br />geese<br />ghost<br />giraffe<br />governor<br />honey<br />hope<br />hydrant<br />icicle<br />income<br />island<br />jeans<br />judge<br />lace<br />lamp<br />lettuce<br />marble<br />month<br />north<br />ocean<br />patch<br />plane<br />playground<br />poison<br />riddle<br />rifle<br />scale<br />seashore<br />sheet<br />sidewalk<br />skate<br />slave<br />sleet<br />smoke<br />stage<br />station<br />thrill<br />throat<br />throne<br />title<br />toothbrush<br />turkey<br />underwear<br />vacation<br />vegetable<br />visitor<br />voyage<br />year</p>
+</td>
+<td valign="top">
+<p><span style="text-decoration: underline;"><strong>5th Grade</strong></span></p>
+<p>able<br />achieve<br />acoustics<br />action<br />activity<br />aftermath<br />afternoon<br />afterthought<br />apparel<br />appliance<br />beginner<br />believe<br />bomb<br />border<br />boundary<br />breakfast<br />cabbage<br />cable<br />calculator<br />calendar<br />caption<br />carpenter<br />cemetery<br />channel<br />circle<br />creator<br />creature<br />education<br />faucet<br />feather<br />friction<br />fruit<br />fuel<br />galley<br />guide<br />guitar<br />health<br />heart<br />idea<br />kitten<br />laborer<br />language<br />lawyer<br />linen<br />locket<br />lumber<br />magic<br />minister<br />mitten<br />money<br />mountain<br />music<br />partner<br />passenger<br />pickle<br />picture<br />plantation<br />plastic<br />pleasure<br />pocket<br />police<br />pollution<br />railway<br />recess<br />reward<br />route<br />scene<br />scent<br />squirrel<br />stranger<br />suit<br />sweater<br />temper<br />territory<br />texture<br />thread<br />treatment<br />veil<br />vein<br />volcano<br />wealth<br />weather<br />wilderness<br />wren<br />wrist<br />writer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2>List of Common Nouns for Various Ages</h2>
+<br />
+<table style="border: 3px solid #f1f1f1; width: 100%;" border="0" cellspacing="3" cellpadding="3" align="center" bgcolor="#fffff0">
+<tbody>
+<tr>
+<td valign="top"><strong><span style="text-decoration: underline;">A<br /><br /></span></strong>account<br />achiever<br />acoustics<br />act<br />action<br />activity<br />actor<br />addition<br />adjustment<br />advertisement<br />advice<br />aftermath<br />afternoon<br />afterthought<br />agreement<br />air<br />airplane<br />airport<br />alarm<br />amount<br />amusement<br />anger<br />angle<br />animal <br />answer<br />ant<br />ants <br />apparatus<br />apparel<br />apple<br />apples <br />appliance<br />approval<br />arch<br />argument<br />arithmetic<br />arm<br />army<br />art<br />attack<br />attempt<br />attention<br />attraction<br />aunt<br />authority</td>
+<td valign="top"><strong><span style="text-decoration: underline;">B<br /><br /></span></strong>babies <br />baby <br />back<br />badge<br />bag<br />bait<br />balance<br />ball<br />balloon<br />balls <br />banana<br />band<br />base<br />baseball<br />basin<br />basket<br />basketball<br />bat<br />bath<br />battle<br />bead<br />beam<br />bean<br />bear<br />bears <br />beast<br />bed<br />bedroom<br />beds <br />bee<br />beef<br />beetle<br />beggar<br />beginner<br />behavior<br />belief<br />believe<br />bell<br />bells <br />berry<br />bike<br />bikes <br />bird<br />birds <br />birth<br />birthday<br />bit<br />bite<br />blade<br />blood<br />blow<br />board<br />boat<br />boats <br />body<br />bomb<br />bone<br />book<br />books <br />boot<br />border<br />bottle<br />boundary<br />box<br />boy<br />boys <br />brain<br />brake<br />branch<br />brass<br />bread<br />breakfast<br />breath<br />brick<br />bridge<br />brother<br />brothers <br />brush<br />bubble<br />bucket<br />building<br />bulb<br />bun<br />burn<br />burst<br />bushes<br />business<br />butter<br />button</td>
+<td valign="top"><strong><span style="text-decoration: underline;">C<br /></span></strong><br />cabbage<br />cable<br />cactus<br />cake<br />cakes <br />calculator<br />calendar<br />camera<br />camp<br />can<br />cannon<br />canvas<br />cap<br />caption<br />car <br />card<br />care<br />carpenter<br />carriage<br />cars <br />cart<br />cast<br />cat<br />cats <br />cattle<br />cause<br />cave<br />celery<br />cellar<br />cemetery<br />cent<br />chain<br />chair <br />chairs <br />chalk<br />chance<br />change<br />channel<br />cheese<br />cherries<br />cherry<br />chess<br />chicken <br />chickens <br />children<br />chin<br />church<br />circle<br />clam<br />class<br />clock<br />clocks <br />cloth<br />cloud<br />clouds <br />clover<br />club<br />coach<br />coal<br />coast<br />coat<br />cobweb<br />coil<br />collar<br />color<br />comb<br />comfort<br />committee<br />company<br />comparison<br />competition<br />condition<br />connection<br />control<br />cook<br />copper<br />copy<br />cord<br />cork<br />corn <br />cough<br />country<br />cover<br />cow<br />cows <br />crack<br />cracker<br />crate<br />crayon<br />cream<br />creator<br />creature<br />credit<br />crib<br />crime<br />crook<br />crow<br />crowd<br />crown<br />crush<br />cry<br />cub<br />cup<br />current<br />curtain<br />curve<br />cushion</td>
+<td valign="top"><strong><span style="text-decoration: underline;">D<br /></span></strong><br />dad<br />daughter<br />day<br />death<br />debt<br />decision<br />deer<br />degree<br />design<br />desire<br />desk<br />destruction<br />detail<br />development<br />digestion<br />dime<br />dinner<br />dinosaurs <br />direction<br />dirt<br />discovery<br />discussion<br />disease<br />disgust<br />distance<br />distribution<br />division<br />dock<br />doctor<br />dog<br />dogs <br />doll<br />dolls <br />donkey<br />door<br />downtown<br />drain<br />drawer<br />dress<br />drink<br />driving<br />drop<br />drug<br />drum<br />duck <br />ducks <br />dust</td>
+<td valign="top"><strong><span style="text-decoration: underline;">E<br /></span></strong><br />ear<br />earth<br />earthquake<br />edge<br />education<br />effect<br />egg<br />eggnog<br />eggs <br />elbow<br />end<br />engine<br />error<br />event<br />example<br />exchange<br />existence<br />expansion<br />experience<br />expert<br />eye<br />eyes</td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="text-decoration: underline;">F<br /></span></strong><br />face<br />fact<br />fairies <br />fall<br />family<br />fan<br />fang <br />farm<br />farmer <br />father<br />father<br />faucet<br />fear<br />feast<br />feather<br />feeling<br />feet<br />fiction<br />field<br />fifth<br />fight<br />finger<br />finger<br />fire <br />fireman<br />fish<br />flag<br />flame<br />flavor<br />flesh<br />flight<br />flock<br />floor<br />flower<br />flowers <br />fly<br />fog<br />fold<br />food<br />foot<br />force<br />fork<br />form<br />fowl<br />frame<br />friction<br />friend<br />friends <br />frog<br />frogs <br />front<br />fruit<br />fuel<br />furniture</td>
+<td valign="top"><strong><span style="text-decoration: underline;">G<br /></span></strong><br />alley<br />game<br />garden<br />gate<br />geese<br />ghost<br />giants <br />giraffe<br />girl<br />girls <br />glass<br />glove<br />glue<br />goat<br />gold<br />goldfish<br />good-bye <br />goose<br />government<br />governor<br />grade<br />grain<br />grandfather<br />grandmother<br />grape<br />grass<br />grip<br />ground<br />group<br />growth<br />guide<br />guitar<br />gun</td>
+<td valign="top"><strong><span style="text-decoration: underline;">H<br /></span></strong><br />hair<br />haircut<br />hall<br />hammer<br />hand<br />hands <br />harbor<br />harmony<br />hat<br />hate<br />head<br />health<br />hearing<br />heart<br />heat<br />help<br />hen<br />hill <br />history<br />hobbies<br />hole<br />holiday<br />home <br />honey<br />hook<br />hope<br />horn<br />horse<br />horses <br />hose<br />hospital<br />hot<br />hour<br />house<br />houses <br />humor<br />hydrant</td>
+<td valign="top"><strong><span style="text-decoration: underline;">I<br /></span></strong><br />ice<br />icicle<br />idea<br />impulse<br />income<br />increase<br />industry<br />ink<br />insect<br />instrument<br />insurance<br />interest<br />invention<br />iron<br />island</td>
+<td valign="top"><strong><span style="text-decoration: underline;">J<br /></span></strong><br />jail<br />jam<br />jar<br />jeans<br />jelly<br />jellyfish<br />jewel<br />join<br />joke<br />journey<br />judge<br />juice<br />jump</td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="text-decoration: underline;">K<br /></span></strong><br />kettle<br />key<br />kick<br />kiss<br />kite<br />kitten<br />kittens <br />kitty <br />knee<br />knife<br />knot<br />knowledge</td>
+<td valign="top"><strong><span style="text-decoration: underline;">L<br /></span></strong><br />laborer<br />lace<br />ladybug<br />lake<br />lamp<br />land<br />language<br />laugh<br />lawyer<br />lead<br />leaf<br />learning<br />leather<br />leg <br />legs<br />letter<br />letters <br />lettuce<br />level<br />library<br />lift<br />light<br />limit<br />line<br />linen<br />lip<br />liquid<br />list<br />lizards <br />loaf<br />lock<br />locket<br />look<br />loss<br />love<br />low<br />lumber<br />lunch<br />lunchroom
+<p> </p>
+<p><br /><br /></p>
+</td>
+<td valign="top"><strong><span style="text-decoration: underline;">M<br /></span></strong><br />machine<br />magic<br />maid<br />mailbox<br />man<br />manager<br />map<br />marble<br />mark<br />market<br />mask<br />mass<br />match<br />meal<br />measure<br />meat<br />meeting<br />memory<br />men<br />metal<br />mice <br />middle<br />milk<br />mind<br />mine<br />minister<br />mint<br />minute<br />mist<br />mitten<br />mom<br />money<br />monkey<br />month<br />moon<br />morning<br />mother<br />motion<br />mountain<br />mouth<br />move<br />muscle<br />music</td>
+<td valign="top"><strong><span style="text-decoration: underline;">N<br /></span></strong><br />nail<br />name<br />nation<br />neck<br />need<br />needle<br />nerve<br />nest <br />net<br />news<br />night<br />noise<br />north<br />nose<br />note<br />notebook<br />number<br />nut</td>
+<td valign="top"><strong><span style="text-decoration: underline;">O<br /></span></strong><br />oatmeal<br />observation<br />ocean<br />offer<br />office<br />oil<br />operation<br />opinion<br />orange<br />oranges <br />order<br />organization<br />ornament<br />oven<br />owl<br />owner</td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="text-decoration: underline;">P<br /></span></strong><br />page<br />pail<br />pain<br />paint<br />pan<br />pancake<br />paper<br />parcel<br />parent<br />park<br />part<br />partner<br />party<br />passenger<br />paste<br />patch<br />payment<br />peace<br />pear<br />pen<br />pencil<br />person<br />pest<br />pet<br />pets <br />pickle<br />picture<br />pie<br />pies <br />pig<br />pigs <br />pin<br />pipe<br />pizzas <br />place<br />plane<br />planes <br />plant<br />plantation<br />plants <br />plastic<br />plate<br />play<br />playground<br />pleasure<br />plot<br />plough<br />pocket<br />point<br />poison<br />police<br />polish<br />pollution<br />popcorn<br />porter<br />position<br />pot<br />potato<br />powder<br />power<br />price<br />print<br />prison<br />process<br />produce<br />profit<br />property<br />prose<br />protest<br />pull<br />pump<br />punishment<br />purpose<br />push<br />
+<p> </p>
+<p> </p>
+</td>
+<td valign="top"><span style="text-decoration: underline;"><strong>Q<br /></strong></span><br />quarter<br />quartz<br />queen<br />question<br />quicksand<br />quiet<br />quill<br />quilt<br />quince<br />quiver <br /><br /><br /></td>
+<td valign="top"><strong><span style="text-decoration: underline;">R<br /></span></strong><br />rabbit <br />rabbits <br />rail<br />railway<br />rain<br />rainstorm<br />rake<br />range<br />rat<br />rate<br />ray<br />reaction<br />reading<br />reason<br />receipt<br />recess<br />record<br />regret<br />relation<br />religion<br />representative<br />request<br />respect<br />rest<br />reward<br />rhythm<br />rice<br />riddle<br />rifle<br />ring<br />rings <br />river<br />road<br />robin <br />rock<br />rod<br />roll<br />roof<br />room<br />root<br />rose<br />route<br />rub<br />rule<br />run</td>
+<td valign="top"><span style="text-decoration: underline;"><strong>S<br /></strong></span><br />sack<br />sail<br />salt<br />sand<br />scale<br />scarecrow<br />scarf<br />scene<br />scent<br />school<br />science<br />scissors<br />screw<br />sea<br />seashore<br />seat<br />secretary<br />seed<br />selection<br />self<br />sense<br />servant<br />shade<br />shake<br />shame<br />shape<br />sheep<br />sheet<br />shelf<br />ship<br />shirt<br />shock<br />shoe<br />shoes <br />shop<br />show<br />side<br />sidewalk<br />sign<br />silk<br />silver<br />sink<br />sister<br />sisters <br />size<br />skate<br />skin<br />skirt<br />sky<br />slave<br />sleep<br />sleet<br />slip<br />slope<br />smash<br />smell<br />smile<br />smoke<br />snail<br />snails <br />snake<br />snakes <br />sneeze<br />snow<br />soap<br />society<br />sock<br />soda<br />sofa<br />son<br />song<br />songs <br />sort<br />sound<br />soup<br />space<br />spade<br />spark<br />spiders <br />sponge<br />spoon<br />spot<br />spring<br />spy<br />square<br />squirrel<br />stage<br />stamp<br />star<br />start<br />statement<br />station<br />steam<br />steel<br />stem<br />step<br />stew<br />stick<br />sticks <br />stitch<br />stocking<br />stomach<br />stone<br />stop<br />store<br />story<br />stove<br />stranger<br />straw<br />stream<br />street<br />stretch<br />string<br />structure<br />substance<br />sugar<br />suggestion<br />suit<br />summer<br />sun<br />support<br />surprise<br />sweater<br />swim<br />swing<br />system<br /><br /><br /><br /></td>
+<td valign="top"><strong><span style="text-decoration: underline;">T<br /></span></strong><br />table<br />tail<br />talk<br />tank<br />taste<br />tax<br />teaching<br />team<br />teeth <br />temper<br />tendency<br />tent<br />territory<br />test<br />texture<br />theory<br />thing<br />things <br />thought<br />thread<br />thrill<br />throat<br />throne<br />thumb<br />thunder<br />ticket<br />tiger<br />time<br />tin<br />title<br />toad<br />toe<br />toes<br />tomatoes <br />tongue<br />tooth<br />toothbrush<br />toothpaste<br />top <br />touch<br />town<br />toy <br />toys <br />trade<br />trail<br />train<br />trains <br />tramp<br />transport<br />tray<br />treatment<br />tree<br />trees <br />trick<br />trip<br />trouble<br />trousers<br />truck<br />trucks <br />tub<br />turkey<br />turn<br />twig<br />twist</td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="text-decoration: underline;">U</span></strong><br /><br />umbrella<br />uncle<br />underwear<br />unit<br />use</td>
+<td valign="top"><strong><span style="text-decoration: underline;">V</span></strong><br /><br />vacation<br />value<br />van<br />vase<br />vegetable<br />veil<br />vein<br />verse<br />vessel<br />vest<br />view<br />visitor<br />voice<br />volcano<br />volleyball<br />voyage</td>
+<td valign="top"><span style="text-decoration: underline;"><strong>W<br /></strong></span><br />walk<br />wall<br />war<br />wash<br />waste<br />watch<br />water<br />wave<br />waves <br />wax<br />way<br />wealth<br />weather<br />week<br />weight<br />wheel<br />whip<br />whistle<br />wilderness<br />wind <br />window <br />wine<br />wing<br />winter<br />wire<br />wish<br />woman<br />women<br />wood<br />wool<br />word<br />work<br />worm<br />wound<br />wren<br />wrench<br />wrist<br />writer<br />writing</td>
+<td valign="top"><strong><span style="text-decoration: underline;">Y<br /></span></strong><br />yak<br />yam<br />yard<br />yarn<br />year<br />yoke</td>
+<td valign="top"><strong><span style="text-decoration: underline;">Z<br /></span></strong><br />zebra <br />zephyr<br />zinc<br />zipper<br />zoo</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table style="border: 2px solid #f1f1f1; width: 75%;" border="0" cellspacing="14" cellpadding="14" align="center" bgcolor="#fffff0">
+<tbody>
+<tr>
+<td valign="top">
+<p><strong><a title="List of Verbs" href="/reading/list-of-verbs.html"><span style="font-size: 11pt;">List of Verbs</span></a></strong></p>
+<p><strong><a title="List of Pronouns" href="/reading/list-of-pronouns.html"><span style="font-size: 11pt;">List of Pronouns</span></a></strong></p>
+<p><strong><a title="List of Prepositions" href="/reading/list-of-prepositions.html"><span style="font-size: 11pt;">List of Prepositions</span></a></strong></p>
+</td>
+<td valign="top">
+<p><strong><a title="List of Nouns" href="/reading/list-of-nouns.html"><span style="font-size: 11pt;">List of Nouns</span></a></strong></p>
+<p><strong><a title="List of Adverbs" href="/reading/list-of-adverbs.html"><span style="font-size: 11pt;">List of Adverbs</span></a></strong></p>
+<p><strong><a title="List Of Adjectives" href="/reading/list-of-adjectives.html"><span style="font-size: 11pt;">List Of Adjectives</span></a></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+			</div>
+</div>
+                												                    										</div>
+                    										</div>
+                    										<div class="clr"></div>
+															                        									                        									<div id="mainmodules2" class="spacer w99">
+                        										                        										                        										<div class="block full">
+                        												<div class="">
+		<div class="moduletable">
+						<div style="text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7841587053148426";
+/* Bottom Module 300x250 */
+google_ad_slot = "3555515776";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>		</div>
+	</div>
+	
+                        										</div>
+                        										                        										                        									</div>
+                        									                    									</div>
+                    								</div>    
+                    							</div>
+            						        </div>
+            						    </div>
+            						    <!--End col1wrap -->
+           						        <!--Begin col2 -->
+           						                    						    <div class="col2">
+                							<div id="leftcol">
+                                                <div id="leftcol-bg">
+                									                										<div class="">
+		<div class="side-mod">
+						<div class="module">
+				<!-- Parenting-Pregnancy-Box -->
+<div id='div-gpt-ad-1361541273167-12' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1361541273167-12');
+</script>
+</div>			</div>
+		</div>
+	</div>
+		<div class="red">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><h3 class="module-title">Menu</h3></div></div>
+						<div class="module">
+				<ul class="menu"><li class="item10524"><a href="http://www.momswhothink.com/"><span>Home</span></a></li><li class="parent  item11138"><a href="http://www.momswhothink.com/diet-and-nutrition/diet-and-weight-loss.html" class="topdaddy"><span>Think Diet</span></a></li><li class="parent  item10649"><a href="http://www.momswhothink.com/recipes/food-and-recipes.html" class="topdaddy"><span>Think Recipes</span></a></li><li class="item11553"><a href="http://www.momswhothink.com/dinner-recipes/dinner-ideas.html"><span>Think Dinner</span></a></li><li class="item10860"><a href="http://www.momswhothink.com/celebrations/celebrations-and-holidays.html"><span>Think Celebrations</span></a></li><li class="parent  item10747"><a href="http://www.momswhothink.com/parenting-home-page/parenting.html" class="topdaddy"><span>Think Family</span></a></li><li class="item11546"><a href="http://www.momswhothink.com/quotes/quotes.html"><span>Think Quotes</span></a></li></ul>			</div>
+		</div>
+	</div>
+		<div class="">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><h3 class="module-title">Most Popular Recipes</h3></div></div>
+						<div class="module">
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="/easy-recipes/easy-dinner-recipes.html" class="mostread">
+			Easy Dinner Recipes</a>
+	</li>
+	<li class="mostread">
+		<a href="/quick-and-easy-dinner-recipes/quick-and-easy-30-minute-meals.html" class="mostread">
+			Quick and Easy 30 Minute Meals</a>
+	</li>
+	<li class="mostread">
+		<a href="/dinner-recipes/dinner-ideas.html" class="mostread">
+			Dinner Ideas</a>
+	</li>
+	<li class="mostread">
+		<a href="/easy-recipes/easy-recipes.html" class="mostread">
+			Easy Recipes</a>
+	</li>
+	<li class="mostread">
+		<a href="/easy-recipes/best-chili-recipe.html" class="mostread">
+			Best Chili Recipe</a>
+	</li>
+	<li class="mostread">
+		<a href="/chicken-recipes/chicken-recipes.html" class="mostread">
+			Chicken Recipes</a>
+	</li>
+	<li class="mostread">
+		<a href="/easy-recipes/puppy-chow-recipe.html" class="mostread">
+			Puppy Chow Recipe</a>
+	</li>
+	<li class="mostread">
+		<a href="/easy-recipes/bread-pudding-recipe.html" class="mostread">
+			Bread Pudding Recipe</a>
+	</li>
+	<li class="mostread">
+		<a href="/easy-recipes/meatloaf-recipe.html" class="mostread">
+			Meatloaf Recipe</a>
+	</li>
+	<li class="mostread">
+		<a href="/easy-recipes/easy-dinner-recipes-week-one.html" class="mostread">
+			Easy Dinner Recipes Week One</a>
+	</li>
+</ul>			</div>
+		</div>
+	</div>
+		<div class="red">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><h3 class="module-title">New Quotes    (click on the image)</h3></div></div>
+						<div class="module">
+				<div align="center">
+<a href="http://www.momswhothink.com/quotes/quotes.html" target="_self">
+	<img src="/images/stories/Quotes/SLEEP_LIKE_A_BABY_QUOTE.jpg" alt="SLEEP_LIKE_A_BABY_QUOTE.jpg" width="290" height="193" /></a>
+</div>			</div>
+		</div>
+	</div>
+		<div class="">
+		<div class="side-mod">
+						<div class="module">
+				<!-- Parenting-Pregnancy-Skyscraper -->
+<div id='div-gpt-ad-1361541273167-14' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1361541273167-14');
+</script>
+</div>			</div>
+		</div>
+	</div>
+		<div class="">
+		<div class="side-mod">
+						<div class="module-header"><div class="module-header2"><h3 class="module-title">Easy 30 Minute Meals</h3></div></div>
+						<div class="module">
+				<table style="border: 7px solid #ffffff; width: 218px; background-color: #ffffff;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td><img style="vertical-align: middle;" title="Dinner Ideas for Tonight" src="/images/stories/homefood/30-minute-meals-module.jpg" alt="30-minute-meals-module" width="218" height="175" /></td>
+</tr>
+<tr>
+<td>
+<p style="padding-left: 10px;"><span style="color: #000000;">Not just entrees, these are complete meals that take 30 minutes from the kitchen to the table ... without sacrificing great taste!</span></p>
+<p style="padding-left: 10px;"><a title="Quick and Easy 30 Minute Meals" href="/quick-and-easy-dinner-recipes/quick-and-easy-30-minute-meals.html"><span style="color: #4ccccc;"><span style="text-decoration: underline;"><span style="font-size: 11pt;">30 Minute Meals</span></span></span></a></p>
+</td>
+</tr>
+</tbody>
+</table>			</div>
+		</div>
+	</div>
+	
+                									                                                </div>
+                							</div>
+            						    </div>
+            						     
+            						    <!---End col2 -->
+            						    <!--Begin col3 -->
+            						     
+            						    <!--End col3-->
+        							</div>
+    							</div>
+							</div>
+						</div>
+						<!--End Main Content Block-->
+					</div>
+					<!--Begin Bottom Main Modules-->
+										<!--End Bottom Main Modules-->
+					<!--Begin Bottom Bar-->
+										<!--End Bottom Bar-->
+					<!--Begin Bottom Section-->
+										<div id="bottom">
+												<div id="mainmodules4" class="spacer w49">
+														<div class="block first">
+									<div class="">
+		<div class="moduletable">
+						<table border="0" cellspacing="14" cellpadding="14">
+<tbody>
+<tr>
+<td>
+<p> </p>
+<a href="/contact-us.html" rel="nofollow"><span style="color: #ffffff;"><span style="text-decoration: underline;"><span style="font-size: 11pt;"><strong>Contact Us</strong></span></span></span></a>
+<p> </p>
+</td>
+<td>
+<p> </p>
+<a href="/privacy-policy.html" rel="nofollow"><span style="color: #ffffff;"><span style="text-decoration: underline;"><span style="font-size: 11pt;"><strong>Privacy Policy</strong></span></span></span></a>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>		</div>
+	</div>
+	
+							</div>
+																					<div class="block last">
+									<div class="">
+		<div class="moduletable">
+						<div>
+<script type="text/javascript">var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleU=escape(window.location.href);
+var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+document.write('<scr'+'ipt'+casaleHost+'68753&amp;u=');
+document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');</script>
+</div>		</div>
+	</div>
+	
+							</div>
+																				</div>
+																		<div class="footer-mod">
+							
+						</div>
+											</div>
+										<!--End Bottom Section-->
+				</div>
+			</div></div></div>
+		</div>
+		<div class="footer-bottom"></div>
+				
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2335204-1");
+pageTracker._trackPageview();
+</script>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-f913V1wBQaxrA";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-f913V1wBQaxrA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-f913V1wBQaxrA.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+	</body>
+</html>
